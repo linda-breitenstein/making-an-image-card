@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: sans-sans-serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -12,10 +12,14 @@ html {
   width: 100%;
 }
 
-.card-body {
+.card {
   overflow: hidden;
   border: 1px solid #ccc;
   border-radius: 0 6px 6px;
+}
+
+.card-body {
+  padding: .2rem 1rem;
 }
 
 .card-title {

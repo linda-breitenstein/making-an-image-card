@@ -23,10 +23,6 @@ html {
 }
 
 .card-title {
-  padding: .2rem 1rem;
-}
-
-.card-title {
   margin: 0;
   padding: .3rem 1rem;
   position: absolute;
